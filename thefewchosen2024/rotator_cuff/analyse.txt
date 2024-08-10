@@ -1,0 +1,3 @@
+No need much explanation...
+Rotation does not change length.
+Also the bit precision is large enough, there is no measurement error after 1000 rotations.

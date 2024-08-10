@@ -1,0 +1,38 @@
+Let's analyse the padding randomisation command
+> padding = (padding | (random.randint(1,10) > 7) ) & (random.randint(1,10) <= 7)
+
+The second part: 
+> (radnom.randint(1, 10) <= 7)
+has 7/10 chance to be True and 3/10 chance to be False
+
+The first part (besides the padding):
+> random.randint(1, 10) > 7
+has 7/10 chance to be False and 3/10 chance to be True
+
+
+Let the phrase be (padding | X) & Y
+
+X   |Y  |Prob   |phrase
+T   |T  |21%    |True
+T   |F  |9%     |False
+F   |T  |49%    |padding
+F   |F  |21%    |False
+
+
+So if padding = False, P(False) = 79%.
+   if padding = True,  P(False) = 30%.
+
+There are total around 25 characters to check, and there are 48 positions to find out.
+If we just sample enough times to determine whether a padding is valid or not, it should take around 50 times to determine each.
+Can we use group testing instead?
+Since there would be only one time that the padding is valid, all the other times are not valid.
+
+
+The answer is no need group testing! 
+Each time we reveal one character of the flag, we can reconnect!
+
+Some potential optimization!
+Should test for '_' first, since it occurs many times! This saves some precious queries.
+
+Finally got the flag!
+TFCCTF{g00d_p4dd1ngs_m4_fr1end5_rememb3r_2_fun1}

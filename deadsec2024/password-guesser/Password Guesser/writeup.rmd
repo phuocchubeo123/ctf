@@ -1,0 +1,2 @@
+The problem provides a password with the following curious properties:
+- product of all characters is the same as sum of all characters mod 13^37
