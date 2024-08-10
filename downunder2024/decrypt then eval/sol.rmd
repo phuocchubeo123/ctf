@@ -1,0 +1,7 @@
+We want to get a ciphertext that decrypts into the following Python variable:
+
+> FLAG
+
+Brute-forcing 4 characters will require 4 bytes in the hashed value -> 2^32 iterations. 
+This is too large. 
+Instead, we see that brute-forcing to get IV and get KEY only require 2^16 and 2^24 iterations correspondingly, which is feasible.
