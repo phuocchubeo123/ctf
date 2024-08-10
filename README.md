@@ -8,3 +8,17 @@ Create new envinronment
 
 To activate:
 > sourve <venv>/bin/activate
+
+## Packages to install for Python3
+
+PyCryptoDome
+> pip install pycryptodome
+
+pwntools
+> pip install pwntools
+
+## Useful tools 
+
+### Number Field Sieve
+Using cado-nfs, one can compute factorisation, dicrete log, ...
+Refer to: https://gitlab.inria.fr/cado-nfs/cado-nfs
