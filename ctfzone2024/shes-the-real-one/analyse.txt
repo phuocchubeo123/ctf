@@ -1,0 +1,7 @@
+I do not have Sage offline, so it takes quite some time to read the dump file.
+One can print out the bytes from the .dump file into a bytestring, and then use:
+> P, Q = sage.misc.persist.loads(the_bytestring)
+To get the points P and Q.
+
+I want to analyse that multiply_by_scalar function:
+Given R0 = x, R1 = x^2
