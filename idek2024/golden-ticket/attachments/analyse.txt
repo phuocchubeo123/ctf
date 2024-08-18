@@ -1,0 +1,14 @@
+chocolate_generator:
+13^m + 37^m mod p
+
+This is a linearly recurrent sequence. The recursion equation is:
+a_{n+2} = 50 a_{n+1} - 481 a_{n}
+
+
+chocolate_bag contains:
+a_0, a_1, \ldots, a_{golden-ticket - 2}, a_{golden-ticket - 1}, a_{golden-ticket}
+
+To get a_{golden-ticket} is easy.
+However, we want to get golden-ticket, a.k.a the discrete log.
+
+Or not? Maybe we can get something better, like Euclidean algorithm?
