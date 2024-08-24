@@ -1,0 +1,236 @@
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0
+b"'accepted\n"
+challenge bit is 0

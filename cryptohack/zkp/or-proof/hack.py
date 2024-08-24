@@ -114,3 +114,83 @@ for i in range(7):
     data.append(int(msg.strip().split()[-1].decode()))
 
 a0, a1, s2, e02, e12, z02, z12 = data
+
+if e0 == e02:
+    am = a1
+    em = e1
+    em2 = e12
+    zm = z1
+    zm2 = z12
+
+else:
+    am = a0
+    em = e0
+    em2 = e02
+    zm = z0
+    zm2 = z02
+
+wm = ((zm2 - zm + q) * inverse((em2 - em - q) % q, q)) % q
+
+msg = conn.recvuntil(b'give me a witness!')
+print(msg)
+
+sendint(wm, conn)
+
+msg = conn.recvline()
+print(msg)
+
+
+## Simulate proof
+msg = conn.recvline()
+print(msg)
+
+msg = conn.recvline()
+print(msg)
+y0 = int(msg.strip().split()[-1].decode())
+
+msg = conn.recvline()
+print(msg)
+y1 = int(msg.strip().split()[-1].decode())
+
+msg = conn.recvline()
+print(msg)
+s = int(msg.strip().split()[-1].decode())
+
+e0 = bytes_to_long(os.urandom(512 // 8)) % q
+e1 = e0 ^ s
+
+z0 = bytes_to_long(os.urandom(512 // 8)) % q
+z1 = bytes_to_long(os.urandom(512 // 8)) % q
+
+a0 = (fast_pow(g, z0, p) * inverse(fast_pow(y0, e0, p), p)) % p
+a1 = (fast_pow(g, z1, p) * inverse(fast_pow(y1, e1, p), p)) % p
+
+
+msg = conn.recvuntil(b'a0:')
+print(msg)
+sendint(a0, conn)
+
+msg = conn.recvuntil(b'a1:')
+print(msg)
+sendint(a1, conn)
+
+msg = conn.recvuntil(b'e0:')
+print(msg)
+sendint(e0, conn)
+
+msg = conn.recvuntil(b'e1:')
+print(msg)
+sendint(e1, conn)
+
+msg = conn.recvuntil(b'z0:')
+print(msg)
+sendint(z0, conn)
+
+msg = conn.recvuntil(b'z1:')
+print(msg)
+sendint(z1, conn)
+
+msg = conn.recvline()
+print(msg)
+msg = conn.recvline()
+print(msg)
