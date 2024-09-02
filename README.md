@@ -23,3 +23,8 @@ pwntools
 Using cado-nfs, one can compute factorisation, dicrete log, ...
 
 Refer to: https://gitlab.inria.fr/cado-nfs/cado-nfs
+
+### Lattice 
+https://github.com/josephsurin/lattice-based-cryptanalysis (have not used)
+https://github.com/TheBlupper/linineq  (also have not used, but seems can solve linear combination in mod)
+https://github.com/kionactf/coppersmith (Coppersmith attack)
